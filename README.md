@@ -6,6 +6,8 @@ Stack: Node.js 20+, Express 5, Sequelize 6, SQLite, jsonwebtoken, bcrypt.
 
 Enunciado do trabalho: [docs/ENUNCIADO.md](docs/ENUNCIADO.md).
 
+Vídeo de demonstração (requisições reais à API): [docs/demo.mp4](docs/demo.mp4).
+
 ## Instalação
 
 ```bash
